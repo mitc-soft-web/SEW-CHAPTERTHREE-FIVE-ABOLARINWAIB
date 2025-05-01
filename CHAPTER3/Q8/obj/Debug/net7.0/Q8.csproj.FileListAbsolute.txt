@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\bin\Debug\net7.0\Q8.exe
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\bin\Debug\net7.0\Q8.deps.json
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\bin\Debug\net7.0\Q8.runtimeconfig.json
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\bin\Debug\net7.0\Q8.dll
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\bin\Debug\net7.0\Q8.pdb
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.dll
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\refint\Q8.dll
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.pdb
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\Q8.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ABOLARINWAIB\CHAPTER2\Q8\obj\Debug\net7.0\ref\Q8.dll
