@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ABOLARINWAIB\\CHAPTER2\\Q8\\Q8.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ABOLARINWAIB\\SEW-CHAPTERTHREE-FIVE-ABOLARINWAIB\\CHAPTER3\\Q8\\Q8.csproj",
       "projectName": "Q8",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\ABOLARINWAIB\\CHAPTER2\\Q8\\Q8.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\ABOLARINWAIB\\SEW-CHAPTERTHREE-FIVE-ABOLARINWAIB\\CHAPTER3\\Q8\\Q8.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\ABOLARINWAIB\\CHAPTER2\\Q8\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\ABOLARINWAIB\\SEW-CHAPTERTHREE-FIVE-ABOLARINWAIB\\CHAPTER3\\Q8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

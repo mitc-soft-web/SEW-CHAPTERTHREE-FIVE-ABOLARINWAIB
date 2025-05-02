@@ -5,7 +5,7 @@ int a = Num/1000;
 
 int tempB = Num/100;
 int b = tempB % 10;
-
+Console.WriteLine()
 int c = Num/10 % 10;
 
 int d = Num % 10;
