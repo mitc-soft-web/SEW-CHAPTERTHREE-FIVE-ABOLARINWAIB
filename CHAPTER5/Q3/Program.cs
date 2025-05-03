@@ -5,7 +5,7 @@ int firstNum = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter secondNumber:");
 int secondNum = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Enter secondNumber:");
+Console.Write("Enter thirdNumber:");
 int thirdNumber = Convert.ToInt32(Console.ReadLine());
 
 int max = firstNum;
