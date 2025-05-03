@@ -22,6 +22,8 @@ int fifthNum = Convert.ToInt32(Console.ReadLine());
     if (firstNum < fifthNum){
       firstNum = fifthNum;
     } 
-
-    Console.WriteLine($" The biggest number is {firstNum}");
+    else{
+          Console.WriteLine($" The biggest number is {firstNum}");
+    }
+ 
 
